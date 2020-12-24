@@ -1,0 +1,22 @@
+@charset "utf8";
+
+#screen {
+    margin-left: 15px;
+}
+
+button {
+    margin-left: 20px;
+    border: 2px solid #000000;
+}
+#restart {
+    border: 5px solid #000000;
+}
+
+footer p {
+    font-size: 0.8rem;
+    color: #fff
+
+}
+footer {
+    background: #432;
+}
